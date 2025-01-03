@@ -46,7 +46,7 @@ const App = () => {
   return (
     <div className="App">
       <div className="container">
-        <h1>To Do list app</h1>
+        <h1>To Do list app in React</h1>
 
         <ToDoForm
           handleSubmit={handleSubmit}
